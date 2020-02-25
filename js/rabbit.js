@@ -26,7 +26,7 @@ window.onload = function () {
             "text": "＼昨日酔拳を習いました!／",
             "site": "kafuuchino.com",
             "imgsrc": "/img/chino.jpg",
-            "imghref": "javascript:void(0)",
+            "imghref": "https://mzh.moegirl.org/%E9%A6%99%E9%A3%8E%E6%99%BA%E4%B9%83",
             "imgsrc_cn": "https://hotobun.gitee.io/hexo/img/rabbit/chino.jpg",
             "access": 200
         },
